@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eddie Lee's Space"
+title                    : "Eddie's Space"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eddie Lee"
-description              : "Learning everyday."
+description              : "Learning everyday. Defect detection. Finding defect in engineering applications."
 url                      : # the base hostname & protocol for your site e.g. "taewanlee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "taewanlee/taewanlee.github.io"
