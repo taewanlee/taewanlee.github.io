@@ -20,7 +20,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eddie Lee"
-description              : "An amazing website."
+description              : "Learning everyday."
 url                      : # the base hostname & protocol for your site e.g. "taewanlee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "taewanlee/taewanlee.github.io"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Eddie Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an engineer who has a dream."
   location         : "Corvallis, OR"
   email            :
   links:
