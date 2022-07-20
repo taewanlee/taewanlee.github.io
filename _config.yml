@@ -108,28 +108,28 @@ author:
   location         : "Corvallis, OR"
   email            : "leetae@oregonstate.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:leetae@oregonstate.edu"
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://your-website.com"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       url: "https://facebook.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
+#     - label:  "Email"
+#       icon:   "fas fa-fw fa-envelope-square"
+#       url:    "mailto:leetae@oregonstate.edu"
+#     - label:  "Website"
+#       icon:   "fas fa-fw fa-link"
+#       url:    "https://your-website.com"
+#     - label:  "Twitter"
+#       icon:   "fab fa-fw fa-twitter-square"
+#       url:    "https://twitter.com/"
+#     - label:  "Facebook"
+#       icon:   "fab fa-fw fa-facebook-square"
+#       url:    "https://facebook.com/"
+    - label:  "GitHub"
+      icon:   "fab fa-fw fa-github"
+      url:    "https://github.com/taewanlee/"
+#     - label:  "Instagram"
+#       icon:   "fab fa-fw fa-instagram"
+#       url:    "https://instagram.com/"
 
 # Site Footer
-# footer:
-#   links:
+footer:
+  links:
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
 #       url:
@@ -139,9 +139,9 @@ author:
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
 #       url:
-#     - label: "GitLab"
-#       icon: "fab fa-fw fa-gitlab"
-#       url:
+    - label: "GitLab"
+      icon:  "fab fa-fw fa-gitlab"
+      url:   "https://github.com/taewanlee/"
 #     - label: "Bitbucket"
 #       icon: "fab fa-fw fa-bitbucket"
 #       url:
@@ -155,7 +155,6 @@ include:
   - .htaccess
   - _pages
   - _posts
-#   ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -294,3 +293,6 @@ defaults:
 
 # Search
 search: true
+
+# Table of contents
+toc: true
