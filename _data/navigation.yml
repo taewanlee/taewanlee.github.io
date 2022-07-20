@@ -5,7 +5,7 @@ main:
   - title: "Home"
     url: https://taewanlee.github.io/
   - title: "All Posts"
-    url: /calss-archive/
+    url: /category-archive/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
