@@ -5,6 +5,8 @@ categories:
   - Test
 tags: 
   - Test
+toc: true
+toc_sticky: true
 ---
 
 This is a test page.
