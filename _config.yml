@@ -291,8 +291,19 @@ defaults:
       share: true
       related: true
       show_date: true
-
-# Search
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
+      
+# Search 
 search: true
 
 # Table of contents
