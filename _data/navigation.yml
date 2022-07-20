@@ -2,8 +2,10 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Thought"
-    url: /_posts/
+  - title: "Home"
+    url: https://taewanlee.github.io/
+  - title: "All Posts"
+    url: /calss-archive/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
