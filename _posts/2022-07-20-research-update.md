@@ -4,7 +4,7 @@ layout: single
 categories: 
   - Research Update
 tags:       
-  - Test
+  - Defect Detection
 title: Research Update on July 20, 2022
 toc: true
 toc_sticky: true
