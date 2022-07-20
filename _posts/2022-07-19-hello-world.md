@@ -7,7 +7,7 @@ title: Hello World
 
 This is a test page.
 
-'''java
+```java
 String str = "hello world!";
 System.outprintln(str);
-'''
+```
