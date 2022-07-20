@@ -20,6 +20,9 @@ System.out.println(str);
 ## 1. SubSection
 ### 1. SubSubSection
 
+
+<!-- DISQUS EMBEDMENT  -->
+<!-- 
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -38,4 +41,5 @@ System.out.println(str);
     (d.head || d.body).appendChild(s);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> 
+-->
