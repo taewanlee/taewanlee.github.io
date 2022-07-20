@@ -1,14 +1,21 @@
 ---
+
 layout: single
-title: Research Update on July 20, 2022
 categories: 
   - Research Update
-tags: 
+tags:       
   - Test
+title: Research Update on July 20, 2022
 toc: true
 toc_sticky: true
-comments: false
+sitemap: 
+    changefreq : daily
+    priority : 0.5
+    
+lastmod: 2022-05-01 16:00:00   
 ---
 
-<!--  -->
-# 1.
+# Defect Detection in AM Process (LPBF) (1)
+
+Related papers:
+
