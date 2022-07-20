@@ -7,6 +7,7 @@ tags:
   - Test
 toc: true
 toc_sticky: true
+comments: false
 ---
 
 This is a test page.
