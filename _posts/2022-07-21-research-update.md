@@ -1,5 +1,4 @@
 ---
-
 layout: single
 categories: 
   - {}
@@ -12,7 +11,7 @@ sitemap:
     changefreq : daily
     priority : 0.5
     
-lastmod: {2022-07-21 15:00:00}
+lastmod: 2022-07-21 15:00:00
 
 ---
 
