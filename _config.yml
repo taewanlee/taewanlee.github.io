@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Eddie Lee"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an engineer who has a dream."
+  bio              : ""
   location         : "Corvallis, OR"
   email            : "leetae@oregonstate.edu"
   links:
