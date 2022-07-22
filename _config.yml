@@ -315,3 +315,10 @@ search: true
 # Table of contents
 toc: true
 toc_sticky: true
+
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
